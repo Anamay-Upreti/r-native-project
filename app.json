@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "reactnativeapp",
+    "scheme":"aora",
     "slug": "reactnativeapp",
     "version": "1.0.0",
     "orientation": "portrait",
